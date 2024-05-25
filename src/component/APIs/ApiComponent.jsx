@@ -1,4 +1,4 @@
-export const baseUrl = 'http://54.66.21.117/';
+export const baseUrl = ' http://54.66.21.117:8000/';
 import { createAsyncThunk } from "@reduxjs/toolkit";
 import axios from "axios";
 
